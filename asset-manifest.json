@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/aws-kinesisvideo-webrtc-react/static/css/main.f855e6bc.css",
+    "main.js": "/aws-kinesisvideo-webrtc-react/static/js/main.ff069c8d.js",
+    "static/js/377.6b28948a.chunk.js": "/aws-kinesisvideo-webrtc-react/static/js/377.6b28948a.chunk.js",
+    "static/media/logo.svg": "/aws-kinesisvideo-webrtc-react/static/media/logo.103b5fa18196d5665a7e12318285c916.svg",
+    "index.html": "/aws-kinesisvideo-webrtc-react/index.html",
+    "main.f855e6bc.css.map": "/aws-kinesisvideo-webrtc-react/static/css/main.f855e6bc.css.map",
+    "main.ff069c8d.js.map": "/aws-kinesisvideo-webrtc-react/static/js/main.ff069c8d.js.map",
+    "377.6b28948a.chunk.js.map": "/aws-kinesisvideo-webrtc-react/static/js/377.6b28948a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ff069c8d.js"
+  ]
+}
