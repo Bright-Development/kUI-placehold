@@ -2,7 +2,7 @@
   "name": "react-amplified",
   "version": "0.1.0",
   "private": true,
-  "homepage": " https://isaacbrightdev.github.io/kUI-placehold",
+  "homepage": ".",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@risingstack/react-easy-state": "^6.3.0",

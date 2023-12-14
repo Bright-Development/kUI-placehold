@@ -1,14 +1,3 @@
-# AWS Kinesis Video WebRTC Demo in React
-
-This project ports the [awslabs/amazon-kinesis-video-streams-webrtc-sdk-js](https://github.com/awslabs/amazon-kinesis-video-streams-webrtc-sdk-js) to React. 
-
-![Example](example.png)
-
-## Prerequisites
-
-1. AWS account and IAM credentials (user or temporary role)
-2. [Create a Kinesis Video signaling channnel in advance](https://docs.aws.amazon.com/kinesisvideostreams-webrtc-dg/latest/devguide/gs-createchannel.html)
-
 ## Deployment
 
 1. Clone this project: 
